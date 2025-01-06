@@ -103,10 +103,10 @@ import { inject } from 'vue';
 import type { Page } from '@bloomreach/spa-sdk';
 import { BrManageContentButton } from '@bloomreach/vue3-sdk';
 
-import VsBrListLinksModule from '~/components/Modules/VsBrListLinksModule.vue';
+import VsBrListLinksModule from '~/components/Modules/VsBrMegalinksLinkListModule.vue';
 import VsBrHorizontalLinksModule from '~/components/Modules/VsBrHorizontalLinksModule.vue';
-import VsBrMultiImageLinksModule from '~/components/Modules/VsBrMultiImageLinksModule.vue';
-import VsBrSingleImageLinksModule from '~/components/Modules/VsBrSingleImageLinksModule.vue';
+import VsBrMultiImageLinksModule from '~/components/Modules/VsBrMegalinksMultiImageModule.vue';
+import VsBrSingleImageLinksModule from '~/components/Modules/VsBrMegalinksSingleImageModule.vue';
 import VsBrArticleModule from '~/components/Modules/VsBrArticleModule.vue';
 import VsBrLongCopyModule from '~/components/Modules/VsBrLongCopyModule.vue';
 import VsBrForm from '~/components/Modules/VsBrForm.vue';
